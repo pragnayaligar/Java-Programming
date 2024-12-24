@@ -1,2 +1,2 @@
-# Java-Programming for practice
+# Java-Programming
 Coding practice in Java
